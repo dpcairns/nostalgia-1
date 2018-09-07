@@ -10,6 +10,7 @@ module.exports = {
           baseUrl: `46.101.251.228/nostalgia-1`,
           protocol: `http`,
           hostingWPCOM: false,
+          verboseOutput: true,
           useACF: true,
       },
     },
