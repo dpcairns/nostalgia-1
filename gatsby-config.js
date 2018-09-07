@@ -7,7 +7,7 @@ module.exports = {
       {
         resolve: `gatsby-source-wordpress`,
         options: {
-          baseUrl: `46.101.187.207`,
+          baseUrl: `46.101.251.228/nostalgia-1`,
           protocol: `http`,
           hostingWPCOM: false,
           useACF: true,
