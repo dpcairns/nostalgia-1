@@ -14,7 +14,7 @@ const IndexPage = ({ data: {
     <div className={styles.toys}>
       {
         toys.map(toy => (
-          <div className={styles.box} style={{background: 'magenta'}}>
+          <div className={styles.box} style={{background: 'rebeccapurple'}}>
             <h1>{toy.node.title}</h1>
             <h6>{toy.node.acf.description}</h6>
           </div>
